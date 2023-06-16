@@ -1,0 +1,25 @@
+{% extends 'user/base.html' %}
+
+{% block content %}
+
+{% load crispy_forms_tags %}
+
+<!--Login-->
+<div class="d-flex justify-content-center align-items-center my-5">
+  <div class="col-5 border p-5">
+  <h1 class="text-center">Login</h1>
+  <form method="POST">
+    {% csrf_token %}
+    <div class="col-12 mb-3">
+      <label for="{{form.id_for_label}}" class="form-label">{{form.username.label}}: </label>
+      {{ form.username}}
+    </div>
+    <div class="col-12 mb-5">
+      <label for="{{form.id_for_label}}" class="form-label">{{form.password.label}}: </label>
+      {{ form.password}}
+    </div>
+    <button class="col-10 btn btn-primary ms-5" type="submit">Login</button>
+  </form>
+</div>
+</div>
+{% endblock %}
