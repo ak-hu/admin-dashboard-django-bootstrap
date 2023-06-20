@@ -1,6 +1,6 @@
 # Admin Dashboard
 
-Admin Dashboard Django Bootstrap is a web application built with Django, utilizing Jinja2 and jQuery to create a responsive and user-friendly admin dashboard. It leverages the power of Bootstrap to enhance the application's visual aesthetics and provide a consistent and modern UI experience.
+Admin Dashboard is a web application built with Django, utilizing Jinja2 and jQuery to create a responsive and user-friendly admin dashboard. It leverages the power of Bootstrap to enhance the application's visual aesthetics and provide a consistent and modern UI experience.
 
 ## Features
 
