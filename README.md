@@ -53,7 +53,7 @@ Please note that this is a basic setup guide, and additional steps may be requir
 
 *Dashboard Page*
 
-![Add](screenshots/screenshot_add.png)
+![Add](screenshots/screenshot_add1.png)
 
 *Add Page*
 
