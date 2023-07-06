@@ -43,6 +43,16 @@ To log in to the application, use the following credentials:
 
 Please note that this is a basic setup guide, and additional steps may be required depending on your specific environment and deployment requirements.
 
+## Screenshots
+
+![Login](screenshot_login.png)
+
+![Dashboard](screenshot_dashboard.png)
+
+![Add](screenshot_add.png)
+
+![Edit](screenshot_edit.png)
+
 ## Contributing
 
 Contributions to the Admin Dashboard Django Bootstrap project are welcome! If you have any ideas for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request.
