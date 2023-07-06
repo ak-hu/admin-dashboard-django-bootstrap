@@ -45,13 +45,21 @@ Please note that this is a basic setup guide, and additional steps may be requir
 
 ## Screenshots
 
-![Login](screenshot_login.png)
+![Login](screenshots/screenshot_login.png)
 
-![Dashboard](screenshot_dashboard.png)
+*Login Page*
 
-![Add](screenshot_add.png)
+![Dashboard](screenshots/screenshot_dashboard.png)
 
-![Edit](screenshot_edit.png)
+*Dashboard Page*
+
+![Add](screenshots/screenshot_add.png)
+
+*Add Page*
+
+![Edit](screenshots/screenshot_edit.png)
+
+*Edit Page*
 
 ## Contributing
 
